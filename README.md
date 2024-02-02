@@ -5,6 +5,19 @@ This repository contains the implementation and analysis of face recognition tec
 
 This repository contains Python code implementing a K-nearest neighbors (KNN) classifier along with Principal Component Analysis (PCA) for dimensionality reduction. The KNN algorithm is a simple and effective method for classification tasks, while PCA is a technique commonly used for reducing the dimensionality of large datasets.
 
+# FaceRecognition-KNN-PCA
+This repository contains the implementation and analysis of face recognition techniques using K Nearest Neighbours (k-NN) and Principal Component Analysis (PCA) on a subset of the CMU Pose, Illumination, and Expression (PIE) database.
+
+## Libraries Used
+- numpy: Fundamental package for scientific computing with Python.
+- csv: Library to read and write CSV files.
+- random: Library for generating random numbers and shuffling sequences.
+- time: Module for measuring time-related functions.
+- matplotlib: Comprehensive library for creating static, animated, and interactive visualizations in Python.
+- pandas: Data manipulation and analysis library.
+- sklearn.decomposition.PCA: Module for performing Principal Component Analysis (PCA).
+- scipy.spatial.distance: Module for computing distances between objects.
+
 ## Contents
 
 1. [Dataset Processing](#dataset-processing)
